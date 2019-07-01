@@ -79,7 +79,10 @@ nav .col-2 {
 
 /* main content styles */
 .main-search {
+  display: flex;
   flex: 1;
+  flex-direction: column;
+  justify-content: center;
   text-align: center;
 }
 
