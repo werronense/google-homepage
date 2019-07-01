@@ -78,6 +78,14 @@ nav .col-2 {
 }
 
 /* main content styles */
+form button {
+  background-color: #f4f4f4;
+}
+
+form button:hover {
+  border: 1px solid #e2e2e2;
+}
+
 .main-search {
   display: flex;
   flex: 1;
@@ -89,6 +97,10 @@ nav .col-2 {
 .main-search img {
   margin: 0 auto;
   width: 15vw;
+}
+
+.main-search input {
+  width: 35vw;
 }
 
 /* footer styles */
