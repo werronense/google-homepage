@@ -60,7 +60,7 @@ body {
 
 /* link styles */
 a {
-  color: #222;
+  color: #5f6368;
   cursor: pointer;
   text-decoration: none;
 }
@@ -103,6 +103,7 @@ form button {
   background-color: #f4f4f4;
   border: 1px solid #f4f4f4;
   border-radius: 2px;
+  color: #5f6368;
   cursor: pointer;
   line-height: 1.5;
   margin-top: 1.5em;
@@ -122,12 +123,13 @@ form button:hover {
   flex: 1;
   flex-direction: column;
   justify-content: center;
+  margin-top: -12.5vh;
   text-align: center;
 }
 
 .main-search img {
   margin: 0 auto;
-  width: 15vw;
+  width: 17.25vw;
 }
 
 .main-search input {
