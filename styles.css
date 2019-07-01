@@ -86,6 +86,11 @@ nav .col-2 {
   text-align: center;
 }
 
+.main-search img {
+  margin: 0 auto;
+  width: 15vw;
+}
+
 /* footer styles */
 footer {
   background-color: lightgray;
